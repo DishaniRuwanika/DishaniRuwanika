@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishaniruwanika&label=Profile%20views&color=0e75b6&style=flat" alt="dishaniruwanika" /> </p>
 
-- 🔭 I’m currently studying at **Sri Lanka Institute of Information Tecnology (SLIIT)**
+- 🔭 I’m currently studying at **Sri Lanka Institute of Information Technology (SLIIT)**
 
 - 🌱 I’m currently learning **Java-based backend systems with MySQL & Tomcat**
 
