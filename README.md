@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dishani Ruwanika</h1>
-<h3 align="center">A passionate backend developer from Sri Lanka</h3>
+<h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishaniruwanika&label=Profile%20views&color=0e75b6&style=flat" alt="dishaniruwanika" /> </p>
 
-- 🔭 I’m currently working on **Online Laundry Management System**
+- 🔭 I’m currently studying at **Sri Lanka Institute of Information Tecnology (SLIIT)**
 
 - 🌱 I’m currently learning **Java-based backend systems with MySQL & Tomcat**
 
@@ -28,8 +28,7 @@
    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dishaniruwanika&show_icons=true&locale=en&layout=compact" alt="dishaniruwanika" /></p>
-## Hi there 👋
+
 
 <!--
 **DishaniRuwanika/DishaniRuwanika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
