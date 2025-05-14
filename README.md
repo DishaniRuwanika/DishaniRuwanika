@@ -9,9 +9,7 @@
 
 - 📫 How to reach me **it23685598@my.sliit.lk**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <h3 align="left">Programming Languages : </h3>
